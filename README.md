@@ -77,3 +77,5 @@
           request_money numeric NULL,
           id serial4 NOT NULL
         );
+- ## API Document
+ collection API : salaryhero_backend/document
