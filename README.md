@@ -21,6 +21,7 @@
 - ### Constructor Database
  - สร้าง database โดยใช้ชื่อ : datasalaryhero
         - สร้าง table โดยใช้คำสั่งด้านล่าง
+        
         CREATE TABLE salaryhero.employee (
           company_id serial4 NOT NULL,
           first_name varchar(100) NULL,
