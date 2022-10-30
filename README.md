@@ -78,4 +78,4 @@
           id serial4 NOT NULL
         );
 - ## API Document
- collection API : salaryhero_backend/document
+   collection API : https://drive.google.com/drive/folders/1_QVk3oAveUtbA-cqrIi9EoxR4_FLKnQK
